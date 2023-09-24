@@ -8,7 +8,7 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 </ul>
 ## Opgave I: ChatGPTs forståelse af sprog
 <details>
-<summary>Klik for opgavebeskrivelse<</summary>
+<summary>Klik for opgavebeskrivelse</summary>
 
 <p>Hop ind på <a href="https://platform.openai.com/tokenizer">https://platform.openai.com/tokenizer</a> og undersøg hvordan ChatGPT forstår sprog.</p>
 
@@ -28,8 +28,9 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 </details>
 
 
+## Opgave II: TITEL HER
 <details>
-<summary><h2>Opgave II: TITEL HER</h2></summary>
+<summary>Klik for opgavebeskrivelse</summary>
 
 OPGAVETEXT HER 
 
