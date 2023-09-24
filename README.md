@@ -9,21 +9,23 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 <details>
 <summary><h2>Opgave I: ChatGPTs forståelse af sprog</h2></summary>
 
-Hop ind på https://platform.openai.com/tokenizer og undersøg hvordan ChatGPT forstår sprog. 
+<p>Hop ind på <a href="https://platform.openai.com/tokenizer">https://platform.openai.com/tokenizer</a> og undersøg hvordan ChatGPT forstår sprog.</p>
 
-**FOKUS:** Meningen med denne opgave er at opbygge en intuition for, hvordan ChatGPT opdeler tekst/ord sammenlignet med, hvordan vi mennesker gør. Du må lege med lige præcis det/de sprog, du ønsker. Det kunne være dansk, spansk, engelsk eller noget helt tredje!
+<p><strong>FOKUS:</strong> Meningen med denne opgave er at opbygge en intuition for, hvordan ChatGPT opdeler tekst/ord sammenlignet med, hvordan vi mennesker gør. Du må lege med lige præcis det/de sprog, du ønsker. Det kunne være dansk, spansk, engelsk eller noget helt tredje!</p>
 
-Mens du eksperimenterer, kan du blandt andet reflektere over disse spørgsmål:
+<p>Mens du eksperimenterer, kan du blandt andet reflektere over disse spørgsmål:</p>
+<ol>
+<li>Er der forskel på ordlængde?</li>
+<li>Er der forskel på om ordet er “sjældent” eller mere normal?</li>
+<li>Er der forskelle på tværs af sprog?</li>
+<li>Hvad med specialtegn (“æ, ø og å” og emojis?)</li>
+<li>Hvad med tal? Hvordan fungerer de?</li>
+</ol>
 
-1. Er der forskel på ordlængde?
-2. Er der forskel på om ordet er “sjældent” eller mere normal?
-3. Er der forskelle på tværs af sprog?
-4. Hvad med specialtegn (“æ, ø og å” og emojis?)
-5. Hvad med tal? Hvordan fungerer de?
-
-**Du må rigtig gerne notere de refleksioner, der gjorde mest indtryk. Var der noget, du fandt overraskende/sjovt/spændende/anderledes/mærkeligt?**
+<p><strong>Du må rigtig gerne notere de refleksioner, der gjorde mest indtryk. Var der noget, du fandt overraskende/sjovt/spændende/anderledes/mærkeligt?</strong></p>
 
 </details>
+
 
 <details>
 <summary><h2>Opgave II: TITEL HER</h2></summary>
