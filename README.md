@@ -6,8 +6,8 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 <li><a href="mailto:drasbaek@post.au.dk">drasbaek@post.au.dk</a> (Anton)</li>
 <li><a href="mailto:mina.almasi@post.au.dk">mina.almasi@post.au.dk</a> (Mina)</li>
 </ul>
-<details>
-<summary><h2>Opgave I: ChatGPTs forståelse af sprog</h2></summary>
+
+## Opgave I: ChatGPTs forståelse af sprog
 
 Hop ind på https://platform.openai.com/tokenizer og undersøg hvordan ChatGPT forstår sprog. 
 
@@ -23,11 +23,8 @@ Mens du eksperimenterer, kan du blandt andet reflektere over disse spørgsmål:
 
 **Du må rigtig gerne notere de refleksioner, der gjorde mest indtryk. Var der noget, du fandt overraskende/sjovt/spændende/anderledes/mærkeligt?**
 
-</details>
 
-<details>
-<summary><h2>Opgave II: TITEL HER</h2></summary>
+## Opgave II: TITEL HER
 
 OPGAVETEXT HER 
 
-</details>
