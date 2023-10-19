@@ -1,11 +1,12 @@
-# Forsiden af medaljen: ChatGPTs potentiale som et værktøj der fremmer læring
-Beskrivelse af workshop kommer til at stå her ... 
+# ChatGPTs potentiale som et værktøj, der kan fremme læring
+
 
 Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os på: 
 <ul style="list-style-type: none;">
 <li><a href="mailto:drasbaek@post.au.dk">drasbaek@post.au.dk</a> (Anton)</li>
 <li><a href="mailto:mina.almasi@post.au.dk">mina.almasi@post.au.dk</a> (Mina)</li>
 </ul>
+
 ## Opgave I: ChatGPTs forståelse af sprog
 <details>
 <summary>Klik for opgavebeskrivelse</summary>
