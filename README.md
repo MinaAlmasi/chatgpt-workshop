@@ -10,7 +10,10 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 ## Opgave I: Hvad er tokens?
 <details>
   <summary>Klik for opgavebeskrivelse</summary>
-  <p>Formålet med denne opgave er at opbygge en intuition for, hvordan ChatGPT opdeler tekst/ord sammenlignet med, hvordan vi mennesker gør. Den ser tekster i “tokens”, men hvordan inddeles disse tokens? Prøv jer frem med selv at skrive tekster, kopiere kendte tekster ind eller noget helt tredje! Linket er her: <a href="https://platform.openai.com/tokenizer">https://platform.openai.com/tokenizer</a></p>
+  <p>Formålet med denne opgave er at opbygge en intuition for, hvordan ChatGPT opdeler tekst/ord sammenlignet med, hvordan vi mennesker gør. Den ser tekster i “tokens”, men hvordan inddeles disse tokens? Prøv jer frem med selv at skrive tekster, kopiere kendte tekster ind eller noget helt tredje! 
+  
+  Hop ind på dette link for at lege med ChatGPTs tokens: <a href="https://platform.openai.com/tokenizer">https://platform.openai.com/tokenizer</a></p>
+
   <p>Mens du eksperimenterer, kan du blandt andet reflektere over disse spørgsmål:</p>
   <ol>
     <li>Er der forskel på ordlængde?</li>
