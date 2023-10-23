@@ -27,7 +27,7 @@ Har I et gæt på hvorfor tokens inddeles som de gør? Tag gerne udgangspunkt i 
 ## Opgave II: SRP brainstorm med ChatGPT
 Hvordan brainstormer man med ChatGPT på en hensigtsmæssig måde? Ideen med denne opgave er at identificere og reflektere over ChatGPTs styrker og svagheder, når den bliver brugt til idegenerering. I vil få adgang til tre chats, som alle omhandler brainstorming til SRP. Læs og diskutér disse i par eller grupper:
 
-1. [SRP 12-talsemner](​​​https://chat.openai.com/share/94f7ad5f-5fe5-4c72-a1f9-9d4b9e792de2)
+1. [SRP 12-talsemner](https://chat.openai.com/share/94f7ad5f-5fe5-4c72-a1f9-9d4b9e792de2)
 2. [SRP i Engelsk og Matematik](https://chat.openai.com/share/63e3ab20-e2c3-4ef4-b935-def37f4acfe4)
 3. [SRP i Fysik og Engelsk](https://chat.openai.com/share/b419d40d-7da8-4b67-9ffa-5958a202d34d)
 
