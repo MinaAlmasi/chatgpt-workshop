@@ -1,4 +1,4 @@
-# ChatGPTs potentiale som et værktøj, der kan fremme læring
+# ChatGPTs potentiale som et værktøj der kan fremme læring
 
 
 Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os på: 
@@ -14,7 +14,7 @@ Hop ind på dette link: [platform.openai.com/tokenizer](https://platform.openai.
 
 Mens I eksperimenterer, kan I blandt andet reflektere over disse spørgsmål:
 1. Er der forskel på ordlængde?
-2. Er der forskel på, om ordet er “sjældent” eller mere normal?
+2. Er der forskel på, om ordet er “sjældent” eller mere normalt?
 3. Er der forskelle på tværs af sprog? (Fx engelsk modsat dansk?)
 4. Hvad med specialtegn? (“æ, ø og å” og emojis)
 5. Hvad med tal? Hvordan fungerer de?
@@ -27,9 +27,9 @@ Har I et gæt på hvorfor tokens inddeles som de gør? Tag gerne udgangspunkt i 
 ## Opgave II: SRP brainstorm med ChatGPT
 Hvordan brainstormer man med ChatGPT på en hensigtsmæssig måde? Ideen med denne opgave er at identificere og reflektere over ChatGPTs styrker og svagheder, når den bliver brugt til idegenerering. I vil få adgang til tre chats, som alle omhandler brainstorming til SRP. Læs og diskutér disse i par eller grupper:
 
-1. [SRP 12-talsemner](https://chat.openai.com/share/cd770984-8b65-479f-ae43-3fff05ebc5e4)
-2. [SRP i Engelsk og Matematik](https://chat.openai.com/share/63e3ab20-e2c3-4ef4-b935-def37f4acfe4)
-3. [SRP i Fysik og Historie](https://chat.openai.com/share/500a64be-1acb-409c-893e-e024e89b0c60)
+1. [SRP 12-talsemner](​​https://chat.openai.com/share/94f7ad5f-5fe5-4c72-a1f9-9d4b9e792de2 )
+2. [SRP i Engelsk og Matematik](https://chat.openai.com/share/63e3ab20-e2c3-4ef4-b935-def37f4acfe4 )
+3. [SRP i Fysik og Engelsk](https://chat.openai.com/share/b419d40d-7da8-4b67-9ffa-5958a202d34d)
 
 I kan blandt andet reflektere over disse spørgsmål:
 
@@ -46,7 +46,6 @@ Hvis I er hurtigt færdige, kan I jo eventuelt prøve selv at eksperimentere med
 ### Læringsværktøjer til eleven
 #### [Wisdolia](https://www.wisdolia.com/)
 Upload en video eller PDF og få flashcards, som du skal svare på skriftligt. Dine svar bliver vurderet, og du vil få konkret feedback til at uddybe svaret eller rette det, hvis det er forkert. 
-
 
 #### [Good Tape](https://www.mygoodtape.com)
 Få transkriberet dine lydfiler automatisk. Gratis og GDPR-venlig service udviklet af det danske medie [Zetland](https://www.zetland.dk). I gymnasiet kan det facilitere brugen af lydfiler i undervisningen og i opgaver som SRP.
