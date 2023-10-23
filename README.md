@@ -42,9 +42,17 @@ BONUS: Hvis I er hurtigt færdige, kan I jo eventuelt prøve selv at eksperiment
 
 ## Ressourcer 
 ### Læringsværktøjer til eleven
-#### [Wisdolia](https://www.wisdolia.com/)
+[Wisdolia](https://www.wisdolia.com/)
+
 Upload en video eller PDF og få flashcards, som du skal svare på skriftligt. Dine svar bliver vurderet, og du vil få konkret feedback til at uddybe svaret eller rette det, hvis det er forkert. 
 
 
-[]
-### 
+[Good Tape](https://www.mygoodtape.com)
+
+Få transkriberet dine lydfiler automatisk. Gratis og GDPR-venlig service udviklet af det danske medie [Zetland](https://www.zetland.dk). I gymnasiet kan det facilitere brugen af lydfiler i undervisningen og i opgaver som SRP.
+
+### Ideer til AI i klasseværelset til underviseren
+[Generative Artificial Intelligence for Education and Pedagogy (Rapport)](https://teaching.cornell.edu/generative-artificial-intelligence/cu-committee-report-generative-artificial-intelligence-education)
+
+Rapport med mange bud på, hvordan man kan bruge sprogalgoritmer som ChatGPT i sin undervisning. Indeholder både konkrete aktiviteter til fag som Matematik, men også opgaver som er egnet til at styrke elevernes kritiske sans overfor teknologier som ChatGPT. Udarbejdet af Cornell University med blandt andet professor [Morten H. Christiansen](https://pure.au.dk/portal/da/persons/morten-h-christiansen(224dad72-3e71-4f7b-8e53-8d33d3cf62c1).html) i spidsen. 
+
