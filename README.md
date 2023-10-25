@@ -7,7 +7,7 @@ Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os
 <li><a href="mailto:mina.almasi@post.au.dk">mina.almasi@post.au.dk</a> (Mina)</li>
 </ul>
 
-## Opgave I: Hvad er tokens?
+## Opgave I: Hvordan inddeles tokens?
 Formålet med denne opgave er at opbygge en intuition for, hvordan ChatGPT opdeler tekst/ord sammenlignet med, hvordan vi mennesker gør. Den ser tekster i “tokens”, men hvordan inddeles disse tokens? Prøv jer frem med selv at skrive tekster, kopiere kendte tekster ind eller noget helt tredje! 
 
 Hop ind på dette link: [platform.openai.com/tokenizer](https://platform.openai.com/tokenizer) for at lege med ChatGPTs tokens.
