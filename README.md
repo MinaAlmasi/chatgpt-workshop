@@ -1,4 +1,5 @@
 # ChatGPTs potentiale som et værktøj der kan fremme læring
+Tusind tak for to geniale workshops! Vi håber, at I nød det lige så meget, som vi gjorde! I kan finde vores slides ved at klikke [her](https://docs.google.com/presentation/d/11UKQcSd2D1dHYMR4whNGFLewbQjIzZL3xY5R3cOgVww/edit?usp=sharing). 
 
 
 Har du spørgsmål - også efter workshoppen? Du er velkommen til at kontakte os på: 
